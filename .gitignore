@@ -1,0 +1,9 @@
+*.com
+*.class
+*.exe
+*.jar
+
+.classpath
+.project
+.settings/
+target/
